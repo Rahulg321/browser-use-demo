@@ -1,2 +1,5 @@
 browser-use
 playwright
+pandas
+openai
+
